@@ -99,3 +99,15 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# IDE settings
+.vscode
+.vscode/*
+.idea
+*.idea
+.DS_Store
+node_modules/
+node_modules/*
+
+# Local settings
+backend/local_settings.py
